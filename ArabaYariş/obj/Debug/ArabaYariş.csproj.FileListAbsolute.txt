@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\bin\Debug\ArabaYariş.exe.config
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\bin\Debug\ArabaYariş.exe
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\bin\Debug\ArabaYariş.pdb
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.Form1.resources
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.exe
+C:\Users\Lenovo\source\repos\ArabaYariş\ArabaYariş\obj\Debug\ArabaYariş.pdb
