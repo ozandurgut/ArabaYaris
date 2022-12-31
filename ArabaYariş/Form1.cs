@@ -20,8 +20,8 @@ namespace ArabaYariş
         }
 
         int kazanilanpuan = 0;
-        int yolhizi = 5;
-        int arabahizi = 5; //kendi arabamın hızı
+        int yolhizi = 7;
+        int arabahizi = 5; //kendi arabamın hız değeri 
         bool sagYon = false;
         bool solYon = false;
         int digerarabahizlari = 5;
